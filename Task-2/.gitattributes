@@ -1,0 +1,3 @@
+# Keep Linux line endings for files used inside containers
+* text=auto eol=lf
+*.png binary
